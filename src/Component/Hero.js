@@ -32,9 +32,7 @@ const Hero = () => {
                                     />
                                 </h2>
                                 <p className="fade-in-up">
-                                    Lorem Ipsum is simply dummy text of the printing and
-                                    typesetting industry. Lorem Ipsum has been the industry's
-                                    standard dummy text ever since the 1500
+                                I specialize in building responsive, user-friendly websites and applications, with a focus on clean code and intuitive design. My familiarity with Python and understanding of Data Structures further enhance my ability to develop efficient and scalable solutions. I am passionate about continuous learning and staying updated with the latest trends in technology.
                                 </p>
 
                                 <SocialIcons />
